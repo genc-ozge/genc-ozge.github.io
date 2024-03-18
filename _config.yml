@@ -1,11 +1,11 @@
 title: Özge Genç # your name (or website title) here
 logo: "ww.jpg" # your photo (or logo) here
-description: Hi everyone> # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ozge-genc/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
