@@ -1,9 +1,6 @@
 title: Özge Genç # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Lalala 
-  <br><br>
-  Lololo 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/ozge-genc/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
