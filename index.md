@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Market Basket Analysis](/https://colab.research.google.com/drive/1KDOOXvJJekRZvaPMa1HPWma516u5d4xU?usp=sharing)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
