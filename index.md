@@ -8,7 +8,7 @@
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[HR Analytics](https://colab.research.google.com/drive/1i7ITWdStDGbZnlJ4vPH_08naHD4cCWIk?usp=sharing)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
