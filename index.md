@@ -9,7 +9,7 @@
 
 ---
 [HR Analytics](https://colab.research.google.com/drive/1i7ITWdStDGbZnlJ4vPH_08naHD4cCWIk?usp=sharing)
-<img src="dummy_thumbnail.jpg?raw=true"/>
+<img src="Ekran Alıntısıhr.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
