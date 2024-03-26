@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Market Basket Analysis](MarketBasket_TicketSales.ipynb)
+[Market Basket Analysis](https://github.com/genc-ozge/genc-ozge.github.io/blob/main/MarketBasket_TicketSales.ipynb)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
