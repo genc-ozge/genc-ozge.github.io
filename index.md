@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Market Basket Analysis](https://colab.research.google.com/drive/1KDOOXvJJekRZvaPMa1HPWma516u5d4xU?usp=sharing)
+[Market Basket Analysis](MarketBasket_TicketSales.ipynb)
 <img src="dummy_thumbnail.jpg?raw=true"/>
 
 ---
