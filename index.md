@@ -8,7 +8,7 @@
 <img src="TicketSales.PNG?raw=true"/>
 
 ---
-[HR Analytics](https://colab.research.google.com/drive/1i7ITWdStDGbZnlJ4vPH_08naHD4cCWIk?usp=sharing)
+[HR Analytics](https://github.com/genc-ozge/genc-ozge.github.io/blob/440f2c303cb1fad22723af1ead857f998cc78e75/HR_Analytics.ipynb)
 <img src="hranalyticsgraph.PNG?raw=true"/>
 
 
