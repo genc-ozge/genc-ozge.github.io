@@ -2,34 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Market Basket Analysis](https://github.com/genc-ozge/genc-ozge.github.io/blob/main/MarketBasket_TicketSales.ipynb)
-<img src="dummy_thumbnail.jpg?raw=true"/>
+<img src="TicketSales.PNG?raw=true"/>
 
 ---
 [HR Analytics](https://colab.research.google.com/drive/1i7ITWdStDGbZnlJ4vPH_08naHD4cCWIk?usp=sharing)
-<img src="Ekran Alıntısıhr.PNG?raw=true"/>
+<img src="hranalyticsgraph.PNG?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
